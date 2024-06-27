@@ -14,15 +14,15 @@
 - Transformers library from Hugging Face
 - asyncio (for asynchronous operations)
 
-### Installation
+## Installation
 1. Clone the repository:
 - git clone https://github.com/your/repository.git
 - cd repository_name
 3. Install dependencies: pip install -r requirements.txt
 4. Run the application: python translator_app.py
 
-### Notes
+## Notes
 - Unsupported Languages: Turkish, Korean, Japanese, Bengali, Latvian, Norwegian, Persian, Thai, Polish, Lithuanian, Malay, Nepali, Turkmen, Kazakh, Kannada, Lao, Portuguese, Tamil, Tatar, Uzbek, Belarusian, Bosnian, Hawaiian, Georgian, Khmer, Latin, Maithili, Tajik, Telugu, Yoruba, and Zulu are currently not supported due to unavailable models or resources.
 - Error Handling: If you encounter a "Model not loaded" error during translation, please ensure your internet connection is active and retry. Contact the developer for further assistance if the issue persists.
-### Contributing
+## Contributing
 - Contributions are welcome! Please fork the repository and submit pull requests with your enhancements.
